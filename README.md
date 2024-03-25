@@ -1,6 +1,6 @@
 # Build a LLM from scratch
 
-I. Understand Byte Pair Encoding (BPE) and Tokenizer.
+I. [Understand Byte Pair Encoding (BPE) and Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE).
 
 II. Explore LLM tasks.
 
