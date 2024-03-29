@@ -22,7 +22,9 @@ II. [Explore LLM tasks.](https://huggingface.co/learn/nlp-course/en/chapter1/3?f
   
   - zero-shot-classification
 
-III. Download and preprocess real data.
+III. [Fine-tune model](https://huggingface.co/learn/nlp-course/en/chapter3/1?fw=pt).
+
+IV. Download and preprocess real data.
 
 1. [C4](https://huggingface.co/datasets/allenai/c4)
 2. 
